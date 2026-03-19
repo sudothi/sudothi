@@ -1,3 +1,4 @@
 <div align="center">
-  <img href="https://www.linkedin.com/in/thiago-chemello/" src="banner.png" alt="Welcome Banner" width="800">
+  <a href="https://www.linkedin.com/in/thiago-chemello/" target="_blank">
+  <img src="banner.png" alt="Welcome Banner" width="800">
 </div>
